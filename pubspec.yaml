@@ -14,10 +14,34 @@ dependencies:
 
 
   cupertino_icons: ^1.0.2
+
   ad_mvc:
     git:
       url: https://github.com/StanleyCocos/ad_plugins.git
       path: package/ad_mvc/
+
+  ad_widget:
+    git:
+      url: https://github.com/StanleyCocos/ad_plugins.git
+      path: package/ad_widget/
+
+  ad_cache:
+    git:
+      url: https://github.com/StanleyCocos/ad_plugins.git
+      path: package/ad_cache/
+
+
+  ad_extension:
+    git:
+      url: https://github.com/StanleyCocos/ad_plugins.git
+      path: package/ad_extension/
+
+
+  ad_global:
+    git:
+      url: https://github.com/StanleyCocos/ad_plugins.git
+      path: package/ad_global/
+
 
 dev_dependencies:
   flutter_test:
