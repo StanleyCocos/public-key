@@ -23,7 +23,6 @@ class _WelcomeState extends BasePageState<WelcomePage, WelcomeController> {
 
   @override
   Widget get content {
-
+    return Container();
   }
-
 }

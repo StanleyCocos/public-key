@@ -14,7 +14,8 @@ dependencies:
 
 
   cupertino_icons: ^1.0.2
-
+  flutter_screenutil: 5.3.1
+  marquee: 2.2.1
   ad_mvc:
     git:
       url: https://github.com/StanleyCocos/ad_plugins.git
@@ -41,6 +42,11 @@ dependencies:
     git:
       url: https://github.com/StanleyCocos/ad_plugins.git
       path: package/ad_global/
+
+  ad_route:
+    git:
+      url: https://github.com/StanleyCocos/ad_plugins.git
+      path: package/ad_route/
 
 
 dev_dependencies:
