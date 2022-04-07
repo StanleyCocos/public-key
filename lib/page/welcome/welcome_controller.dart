@@ -10,5 +10,6 @@ class WelcomeController extends BaseController<WelcomeModel> {
 
   @override
   bool get content => true;
+  
 
 }
